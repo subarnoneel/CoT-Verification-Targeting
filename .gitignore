@@ -1,0 +1,37 @@
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# model + HF cache (never commit these)
+*.safetensors
+*.bin
+*.pt
+.cache/
+hf_cache/
+
+# LLM response cache produced by the notebook
+llm_cache/
+*.cache
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX build artefacts
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# scratch
+scratch/
+tmp/

@@ -1,0 +1,27 @@
+# Pilot study — Locating Verification Failure in Chain-of-Thought Reasoning
+# Python 3.10+
+
+# data
+datasets>=2.18.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# model inference (only needed to regenerate chains; not needed for analysis)
+torch>=2.1.0
+transformers>=4.40.0
+accelerate>=0.28.0
+
+# graph construction
+networkx>=3.1
+rapidfuzz>=3.6.0
+sentence-transformers>=2.5.0
+pysbd>=0.3.4
+
+# statistics
+scipy>=1.11.0
+statsmodels>=0.14.0
+scikit-learn>=1.3.0
+scikit-posthocs>=0.9.0
+
+# figures
+matplotlib>=3.7.0

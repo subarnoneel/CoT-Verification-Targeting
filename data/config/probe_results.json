@@ -1,0 +1,12 @@
+{
+  "plain": {
+    "cue_prevalence": 0.041666666666666664,
+    "parseable_rate": 0.9583333333333334,
+    "native_numbering_rate": 1.0
+  },
+  "invite": {
+    "cue_prevalence": 0.5416666666666666,
+    "parseable_rate": 1.0,
+    "native_numbering_rate": 1.0
+  }
+}

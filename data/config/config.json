@@ -1,0 +1,14 @@
+{
+  "model_id": "Qwen/Qwen2.5-3B-Instruct",
+  "load_4bit": false,
+  "batch_size": 16,
+  "max_new_tokens": 320,
+  "temperature": 0.0,
+  "n_sample": 150,
+  "n_target": 100,
+  "seed": 42,
+  "prompt_variant": "invite",
+  "inject_min_pos": 2,
+  "inject_max_pos": 4,
+  "min_steps_after": 2
+}

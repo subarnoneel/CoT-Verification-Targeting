@@ -1,0 +1,7 @@
+Stage,Count,% of sampled
+Problems sampled from GSM8K test,150,100.0
+Clean solutions generated,150,100.0
+Final answer correct,122,81.3
+Also parseable (>=4 numbered steps),120,80.0
+Valid injection point found,96,64.0
+ELIGIBLE (capped at n_target),96,64.0

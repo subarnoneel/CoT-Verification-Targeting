@@ -1,0 +1,3 @@
+Analysis,n,C1,C2,C4,chi2 p,Cramer V
+Primary (all chains; no resolved edge counted as MISS),283,0.447,0.221,0.351,0.0044,0.196
+Sensitivity (only chains with a resolved edge),232,0.592,0.244,0.44,0.0001,0.291

@@ -1,0 +1,210 @@
+sheet_chain,step_no,step_text,A,B,model,is_damaged
+1,1,The bus travels 60 miles per hour for 5 hours.,Compute,Compute,Compute,True
+1,2,A mathematics professor states that 60 x 5 = 360.,Compute,Compute,Compute,True
+1,3,The distance traveled by the bus is 60 x 5 = 300 miles.,Compute,Compute,Compute,True
+1,4,The car travels 30 miles per hour for 8 hours.,Compute,Compute,Compute,True
+1,5,The distance traveled by the car is 30 x 8 = 240 miles.,Compute,Compute,Compute,True
+1,6,"To find how much farther the bus went, subtract the car's distance from the bus's distance: 300 - 240 = 60 miles.",Compute,Compute,Compute,True
+1,7,Let me check that subtraction: 300 - 240 = 60. That is correct.,Verify,Verify,Verify,True
+1,8,Final answer: 60,Final,Final,Final,True
+2,1,Mary has 6 jars of sprinkles.,Compute,Compute,Compute,False
+2,2,Each jar can decorate 8 cupcakes.,Compute,Compute,Compute,False
+2,3,The total number of cupcakes that can be decorated is 6 x 8 = 48.,Compute,Compute,Compute,False
+2,4,Each pan holds 12 cupcakes.,Compute,Compute,Compute,False
+2,5,"To find out how many pans are needed, divide the total number of cupcakes by the number of cupcakes each pan can hold: 48 ÷ 12 = 4.",Compute,Compute,Compute,False
+2,6,Let me check that division: 48 ÷ 12 = 4. That is correct.,Verify,Verify,Verify,False
+2,7,Final answer: 4,Final,Final,Final,False
+3,1,Each necklace is 25 inches long.,Compute,Compute,Compute,False
+3,2,"Each topaz gemstone is 1 inch long, so 8 topaz gemstones are 8 x 1 = 8 inches.",Compute,Compute,Compute,False
+3,3,The total length taken up by the topaz gemstones is 8 inches.,Compute,Compute,Final,False
+3,4,The remaining length for sterling silver beads is 25 - 8 = 17 inches.,Compute,Compute,Compute,False
+3,5,Each sterling silver bead is 1/4 inch long.,Compute,Compute,Compute,False
+3,6,The number of sterling silver beads used is 17 ÷ (1/4) = 17 x 4 = 68.,Compute,Compute,Compute,False
+3,7,Let me check that calculation: 17 x 4 = 68. That is correct.,Verify,Verify,Verify,False
+3,8,Final answer: 68,Final,Final,Final,False
+4,1,Henry needs 4 wheels for each car.,Compute,Compute,Compute,True
+4,2,The total number of wheels needed for the cars is 57 x 4 = 228.,Compute,Compute,Compute,True
+4,3,The total number of wheels needed for the motorcycles is 73 x 2 = 146.,Compute,Compute,Compute,True
+4,4,The total number of wheels needed for all toys is 228 + 146 = 374.,Compute,Compute,Compute,True
+4,5,The number of wheels left after assembly is 650 - 374 = 276.,Compute,Compute,Compute,True
+4,6,Let me check that subtraction: 650 - 374 = 276. That is correct.,Verify,Verify,Verify,True
+5,1,Carlos pays 30 x 3 = 90 dollars.,Compute,Compute,Compute,False
+5,2,Benji pays 18 x 5 = 90 dollars.,Compute,Compute,Compute,False
+5,3,Total payment is 90 + 90 = 180 dollars.,Compute,Compute,Compute,False
+5,4,Let me check that total: 90 + 90 = 180. That is correct.,Verify,Verify,Verify,False
+5,5,Final answer: 180,Final,Final,Final,False
+6,1,The alphabet has 26 letters.,Compute,Compute,Final,False
+6,2,Writing it in full twice is 2 x 26 = 52 letters.,Compute,Compute,Compute,False
+6,3,Writing half of it once is 26 / 2 = 13 letters.,Compute,Compute,Compute,False
+6,4,Total so far is 52 + 13 = 65 letters.,Compute,Compute,Compute,False
+6,5,Re-writing everything she has already written means writing 65 letters again.,Compute,Compute,Compute,False
+6,6,Final total is 65 + 65 = 130.,Compute,Compute,Final,False
+6,7,Let me check that total: 65 + 65 = 130. That is correct.,Verify,Verify,Verify,False
+6,8,Final answer: 130,Final,Final,Final,False
+7,1,Cost of 3 books is 16 x 3 = 48 dollars.,Compute,Compute,Compute,True
+7,2,Cost of 3 pencils is 6 x 3 = 18 dollars.,Compute,Compute,Compute,True
+7,3,Total spent is 48 + 18 = 66 dollars.,Compute,Compute,Compute,True
+7,4,Let me check that addition: 48 + 18 = 66. That is correct.,Verify,Verify,Verify,True
+7,5,Final answer: 66,Final,Final,Final,True
+8,1,Seven times as many loaves as Sam had is 7 x 70 = 490.,Compute,Compute,Compute,False
+8,2,The bakery has 40 less than this amount.,Compute,Compute,Compute,False
+8,3,"Therefore, the bakery has 490 - 40 = 450 loaves of bread.",Compute,Compute,Compute,False
+8,4,The bakery has 40 less than seven times as many loaves as Sam had.,Compute,Compute,Compute,False
+8,5,Seven times as many loaves as Sam had is 7 x 70 = 490.,Compute,Compute,Compute,False
+8,6,The bakery has 40 less than this amount.,Compute,Compute,Compute,False
+8,7,"Therefore, the bakery has 490 - 40 = 450 loaves of bread.",Compute,Compute,Compute,False
+8,8,Let me check that calculation: 490 - 40 = 450. That is correct.,Verify,Verify,Verify,False
+8,9,Final answer: 450,Final,Final,Final,False
+9,1,Cost of 3 books is 16 x 3 = 48 dollars.,Compute,Compute,Compute,False
+9,2,Cost of 3 pencils is 6 x 3 = 18 dollars.,Compute,Compute,Compute,False
+9,3,3. Total spent is 48 + 18 = 66 dollars.,Compute,Compute,Compute,False
+10,1,Ray had 25 lollipops.,Compute,Compute,Compute,True
+10,2,He kept 5 lollipops.,Compute,Compute,Final,True
+10,3,The number of lollipops shared is 25 - 5 = 20.,Compute,Compute,Compute,True
+10,4,Each friend received 20 ÷ 4 = 5 lollipops.,Compute,Compute,Compute,True
+10,5,Let me check that division: 20 ÷ 4 = 5. That is correct.,Verify,Verify,Verify,True
+10,6,Final answer: 5,Final,Final,Final,True
+11,1,From 1:00 PM to 5:00 PM is 4 hours.,Compute,Compute,Compute,True
+11,2,The candle melts by 2 centimeters every hour.,Compute,Compute,Compute,True
+11,3,"3. In 4 hours, the candle will melt by 4 x 2 = 8 centimeters.",Compute,Compute,Compute,True
+12,1,Total burritos ordered = 600.,Compute,Compute,Final,False
+12,2,Number of students = 50.,Compute,Compute,Compute,False
+12,3,Burritos each student gets = 10.,Compute,Compute,Compute,False
+12,4,Total burritos given to students = 50 x 10 = 500.,Compute,Compute,Compute,False
+12,5,Burritos eaten by Mr. George = 20.,Compute,Compute,Final,False
+12,6,Total burritos given out (students + Mr. George) = 500 + 20 = 520.,Compute,Compute,Compute,False
+12,7,Total burritos left = 600 - 520 = 80.,Compute,Compute,Compute,False
+12,8,Let me check that calculation: 600 - 520 = 80. That is correct.,Verify,Verify,Verify,False
+12,9,Final answer: 80,Final,Final,Final,False
+13,1,Oscar starts with 24 lollipops.,Compute,Compute,Compute,True
+13,2,Oscar eats 2 on his way to school.,Compute,Compute,Compute,True
+13,3,"After eating, Oscar has 24 - 2 = 22 lollipops.",Compute,Compute,Compute,True
+13,4,Oscar passes 14 out to his friends.,Compute,Compute,Compute,True
+13,5,"After giving away, Oscar has 22 - 14 = 8 lollipops.",Compute,Compute,Compute,True
+13,6,Oscar buys twice as many lollipops on his way home as he gave to his friends.,Compute,Compute,Compute,True
+13,7,He bought 2 x 14 = 28 lollipops.,Compute,Compute,Compute,True
+13,8,"After buying, Oscar has 8 + 28 = 36 lollipops.",Compute,Compute,Final,True
+13,9,Oscar eats 3 more that night.,Compute,Compute,Compute,True
+13,10,"After eating, Oscar has 36 - 3 = 33 lollipops.",Compute,Compute,Compute,True
+13,11,Oscar eats 2 more in the morning.,Compute,Compute,Compute,True
+13,12,"After eating, Oscar has 33 - 2 = 31 lollipops.",Compute,Compute,Compute,True
+13,13,Let me check that final subtraction: 33 - 2 = 31. That is correct.,Verify,Verify,Verify,True
+14,1,Prince Arthur slew {3}{4} x 100 = 75 dragons.,Compute,Compute,Compute,True
+14,2,Prince Walter slew 2 x 75 = 150 dragons.,Compute,Compute,Compute,True
+14,3,Prince Bruce slew 1/5 x 150 = 30 dragons.,Compute,Compute,Compute,True
+14,4,Let me check that calculation: 1/5 x 150 = 30. That is correct.,Verify,Verify,Verify,True
+14,5,Final answer: 30,Final,Final,Final,True
+15,1,"House value is $250,000.",Compute,Compute,Compute,True
+15,2,"Loan amount is 40% of $250,000, which is 0.40 x 250000 = 100000.",Compute,Compute,Compute,True
+15,3,"However, that result is actually 90000, not 100000.",Compute,Compute,Verify,True
+15,4,"Amount used for debt repayment is 60% of $90000, which is 0.60 x 90000 = 54000.",Compute,Compute,Compute,True
+15,5,Money leftover is $90000 - $54000 = 36000.,Compute,Compute,Compute,True
+15,6,Let me check that calculation: $90000 - $54000 = $36000. That is correct.,Verify,Verify,Verify,True
+15,7,Final answer: 36000,Final,Final,Final,True
+16,1,Joey's total points after scoring are 214 + 26 = 240.,Compute,Compute,Compute,False
+16,2,Marcy's total points after scoring are 225 + 10 = 235.,Compute,Compute,Compute,False
+16,3,Joey's total points after scoring are 214 + 26 = 240.,Compute,Compute,Compute,False
+16,4,Marcy's total points after scoring are 225 + 10 = 235.,Compute,Compute,Compute,False
+16,5,The difference in points between Joey and Marcy is 240 - 235 = 5.,Compute,Compute,Compute,False
+16,6,Final answer: 5,Final,Final,Final,False
+17,1,Steve's wife age is 60 + 4 = 64.,Compute,Compute,Compute,True
+17,2,A mathematics professor states that 64 / 2 = 29.,Compute,Compute,Verify,True
+17,3,Steve's son's wife age is 29 - 3 = 26.,Compute,Compute,Compute,True
+17,4,Let me check that calculation: 29 - 3 = 26. That is correct.,Verify,Verify,Verify,True
+17,5,Final answer: 26,Final,Final,Final,True
+18,1,There are 6 girls in the park.,Compute,Compute,Compute,False
+18,2,"The number of boys is twice the number of girls, so there are 6 x 2 = 12 boys.",Compute,Compute,Compute,False
+18,3,The total number of kids is 6 girls + 12 boys = 18 kids.,Compute,Compute,Compute,False
+18,4,Let me check that addition: 6 + 12 = 18. That is correct.,Verify,Verify,Verify,False
+18,5,Final answer: 18,Final,Final,Final,False
+19,1,Total elves hired are 60.,Compute,Compute,Final,True
+19,2,A mathematics professor states that 60 / 3 = 24.,Compute,Compute,Verify,True
+19,3,"After a third of the elves quit, the number remaining is 60 - 24 = 36.",Compute,Compute,Compute,True
+19,4,Then 10 of the remaining elves quit.,Compute,Compute,Compute,True
+19,5,The number of elves left is 36 - 10 = 26.,Compute,Compute,Compute,True
+19,6,Let me check that subtraction: 36 - 10 = 26. That is correct.,Verify,Verify,Verify,True
+19,7,Final answer: 26,Final,Final,Final,True
+20,1,Total burritos ordered = 600.,Compute,Compute,Final,True
+20,2,Number of students = 50.,Compute,Compute,Compute,True
+20,3,Burritos each student gets = 10.,Compute,Compute,Compute,True
+20,4,Total burritos given to students = 50 x 10 = 500.,Compute,Compute,Compute,True
+20,5,Burritos eaten by Mr. George = 20.,Compute,Compute,Final,True
+20,6,Total burritos consumed = 500 + 20 = 520.,Compute,Compute,Compute,True
+20,7,Leftover burritos = 600 - 520 = 80.,Compute,Compute,Compute,True
+20,8,Let me check that calculation: 600 - 520 = 80. That is correct.,Verify,Verify,Verify,True
+20,9,Final answer: 80,Final,Final,Final,True
+21,1,Last year's enrollment was 50 students.,Compute,Compute,Final,False
+21,2,"The increase in enrollment is 20% of 50, which is 0.20 x 50 = 10.",Compute,Compute,Compute,False
+21,3,"3. This year's enrollment is the sum of last year's enrollment and the increase, which is 50 + 10 = 60.",Compute,Compute,Compute,False
+22,1,From 1:00 PM to 5:00 PM is 4 hours.,Compute,Compute,Compute,False
+22,2,The candle melts by 2 centimeters every hour.,Compute,Compute,Compute,False
+22,3,The total melting over 4 hours is 4 x 2 = 8.,Compute,Compute,Compute,False
+22,4,4. The candle will be 8 centimeters shorter.,Compute,Compute,Compute,False
+22,5,5. Final answer: 8,Final,Final,Final,False
+23,1,Low setting removes 1 liter per day.,Compute,Compute,Compute,False
+23,2,Medium setting removes 2 x 1 = 2 liters per day.,Compute,Compute,Compute,False
+23,3,High setting removes 2 x 2 = 4 liters per day.,Compute,Compute,Compute,False
+23,4,"For 3 days on the low setting, the dehumidifier removes 3 x 1 = 3 liters.",Compute,Compute,Compute,False
+23,5,"For 3 days on the medium setting, the dehumidifier removes 3 x 2 = 6 liters.",Compute,Compute,Compute,False
+23,6,"For 5 days on the high setting, the dehumidifier removes 5 x 4 = 20 liters.",Compute,Compute,Compute,False
+23,7,Total water removed is 3 + 6 + 20 = 29 liters.,Compute,Compute,Compute,False
+23,8,Let me check that calculation: 3 + 6 + 20 = 29. That is correct.,Verify,Verify,Verify,False
+23,9,Final answer: 29,Final,Final,Final,False
+24,1,Jim watches TV for 2 hours each time.,Compute,Compute,Compute,True
+24,2,"He reads for half as long as he watches TV, so he reads for 2 / 2 = 1 hour each time.",Compute,Compute,Compute,True
+24,3,"However, that result is actually 3, not 1.",Compute,Compute,Verify,True
+24,4,"Each time Jim does both activities, he spends 2 + 1 = 3 hours.",Compute,Compute,Compute,True
+24,5,He repeats this routine 3 times a week.,Compute,Compute,Compute,True
+24,6,"In one week, he spends 3 x 3 = 9 hours.",Compute,Compute,Compute,True
+24,7,"Over 4 weeks, he spends 9 x 4 = 36 hours.",Compute,Compute,Compute,True
+24,8,"Let me check that calculation: 3 x 3 = 9, 9 x 4 = 36. That is correct.",Verify,Verify,Verify,True
+24,9,Final answer: 36,Final,Final,Final,True
+25,1,The bus travels 60 miles per hour for 5 hours.,Compute,Compute,Compute,True
+25,2,The distance the bus travels is 60 x 5 = 300 miles.,Compute,Compute,Compute,True
+25,3,The car travels 30 miles per hour for 8 hours.,Compute,Compute,Compute,True
+25,4,The distance the car travels is 30 x 8 = 240 miles.,Compute,Compute,Compute,True
+25,5,The difference in distance is 300 - 240 = 60 miles.,Compute,Compute,Compute,True
+25,6,Let me check that subtraction: 300 - 240 = 60. That is correct.,Verify,Verify,Verify,True
+25,7,Final answer: 60,Final,Final,Final,True
+26,1,Eve originally had 20 pomelos.,Compute,Compute,Compute,False
+26,2,She is left with 1/4 of 20 pomelos.,Compute,Compute,Compute,False
+26,3,The number of pomelos left is 1/4 x 20 = 5.,Compute,Compute,Compute,False
+26,4,The number of pomelos given away is 20 - 5 = 15.,Compute,Compute,Compute,False
+26,5,5. The number of pomelos given away is 20 - 5 = 15.,Compute,Compute,Compute,False
+26,6,6. Final answer: 15,Final,Final,Final,False
+27,1,Convert the length from yards to feet: 3 yards = 3 x 3 = 9 feet.,Compute,Compute,Compute,False
+27,2,Calculate the width using the area formula: Area = Length x Width => 360 = 9 x Width => Width = 360 / 9 = 40 feet.,Compute,Compute,Compute,False
+27,3,Calculate the perimeter using the formula: Perimeter = 2 x (Length + Width) = 2 x (9 + 40) = 2 x 49 = 98 feet.,Compute,Compute,Compute,False
+27,4,Let me check that calculation: Perimeter = 2 x (9 + 40) = 2 x 49 = 98. That is correct.,Verify,Verify,Verify,False
+27,5,Final answer: 98,Final,Final,Final,False
+28,1,There are 10 stalls with 20 cows each.,Compute,Compute,Compute,False
+28,2,The total number of cows is 10 x 20 = 200.,Compute,Compute,Compute,False
+28,3,Mr. Sylas buys 40 cows.,Compute,Compute,Compute,False
+28,4,The total number of cows after buying is 200 + 40 = 240.,Compute,Compute,Compute,False
+28,5,He divides the 40 new cows equally into 10 stalls.,Compute,Compute,Compute,False
+28,6,Each stall gets 40 ÷ 10 = 4 new cows.,Compute,Compute,Compute,False
+28,7,Now there are 20 original cows + 4 new cows = 24 cows per stall.,Compute,Compute,Compute,False
+28,8,"To find the number of cows in 8 stalls, calculate 8 x 24 = 192.",Compute,Compute,Compute,False
+28,9,Let me check that multiplication: 8 x 24 = 192. That is correct.,Verify,Verify,Verify,False
+28,10,Final answer: 192,Final,Final,Final,False
+29,1,Total burritos ordered = 600.,Compute,Compute,Final,True
+29,2,Number of students = 50.,Compute,Compute,Compute,True
+29,3,Burritos each student gets = 10.,Compute,Compute,Compute,True
+29,4,Total burritos given to students = 50 x 10 = 500.,Compute,Compute,Compute,True
+29,5,"However, that result is actually 400, not 500.",Compute,Compute,Verify,True
+29,6,Correcting the calculation: Total burritos given to students = 50 x 10 = 400.,Verify,Compute,Compute,True
+29,7,Mr. George eats 20 burritos.,Compute,Compute,Compute,True
+29,8,Total burritos eaten = 400 + 20 = 420.,Compute,Compute,Compute,True
+29,9,Total burritos initially ordered - Total burritos eaten = 600 - 420 = 180.,Compute,Compute,Compute,True
+29,10,Let me check that calculation: 600 - 420 = 180. That is correct.,Verify,Verify,Verify,True
+29,11,Final answer: 180,Final,Final,Final,True
+30,1,Nik has 200 crayons.,Compute,Compute,Compute,True
+30,2,He separates them into groups of 8: 200 ÷ 8 = 25 boxes.,Compute,Compute,Compute,True
+30,3,Each box weighs 8 ounces.,Compute,Compute,Compute,True
+30,4,The total weight of the boxes is 25 x 8 = 200 ounces.,Compute,Compute,Compute,True
+30,5,"However, that result is actually 240, not 200.",Compute,Compute,Verify,True
+30,6,Each crayon weighs 1 ounce.,Compute,Compute,Compute,True
+30,7,The total weight of the crayons is 200 x 1 = 200 ounces.,Compute,Compute,Compute,True
+30,8,The combined weight of the crayons and the boxes is 200 + 200 = 400 ounces.,Compute,Compute,Compute,True
+30,9,"To convert ounces to pounds, divide by 16: 400 ÷ 16 = 25 pounds.",Compute,Compute,Compute,True
+30,10,Let me check that calculation: 400 ÷ 16 = 25. That is correct.,Verify,Verify,Verify,True

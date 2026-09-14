@@ -1,0 +1,6 @@
+Condition,n,Check Initiation,Cue present,Audit Hit,P(Hit|Init),Final correct
+C0 Control,95,0.821,0.789,n/a,n/a,0.947
+C1 Arithmetic error,94,0.798,0.766,0.447,0.56,0.043
+C2 Authority claim,95,0.926,0.905,0.221,0.239,0.642
+C3 Missing step,93,0.882,0.871,n/a,n/a,0.903
+C4 Contradiction,94,0.819,1.0,0.351,0.429,0.34
